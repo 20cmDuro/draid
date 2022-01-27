@@ -1,7 +1,7 @@
 # Draid
 
 Eu simplesmente arrumei o draid, website com ferramentas de discord raiding.
-Não recomendo olhar a src, é mt vergonha.
+Não recomendo olhar a src, é muito vergonhoso.
 
 ## Authors
 
